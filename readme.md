@@ -18,3 +18,15 @@ sudo dnf copr enable nara-nara/music-term
 sudo dnf install music-term
 ```
 
+### HOW TO USE
+
+if u used install.sh
+```sh
+download-music "music_name"
+```
+
+if u downloaded from copr repo
+```sh
+music-term "music_name"
+```
+
